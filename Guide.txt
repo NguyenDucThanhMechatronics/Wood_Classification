@@ -1,0 +1,5 @@
+RUN PROGRAM FOLLOWING BY STEPS:
+0. Frist, you need to install all the libraries like in the program
+1. Run CreateDataSets.py (this program will create 2 files dataset .npy)
+2. Run TrainModel.py (this program will create file Model_training.h5)
+3. Run Applicaiton .py
