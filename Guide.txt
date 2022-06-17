@@ -1,5 +1,8 @@
-RUN PROGRAM FOLLOWING BY STEPS:
-0. Frist, you need to install all the libraries like in the program
-1. Run CreateDataSets.py (this program will create 2 files dataset .npy)
-2. Run TrainModel.py (this program will create file Model_training.h5)
-3. Run Applicaiton .py
+#  RUN PROGRAM FOLLOWING BY STEPS:
+  0. Frist, you need to install all the libraries like in the program
+  1. Run CreateDataSets.py (this program will create 2 files dataset .npy)
+  2. Run TrainModel.py (this program will create file Model_training.h5)
+  3. Run Applicaiton .py
+
+#  You can get trianed Model by link: https://drive.google.com/drive/folders/1GwYM3zgjTapqCnZ-YJ-S8qUSUPfKpxCQ?usp=sharing
+#  You can get datasets image by link: https://drive.google.com/drive/folders/1nBz9lm8S8ZUvaL0WMFme_VNU5mQtib7e?usp=sharing
